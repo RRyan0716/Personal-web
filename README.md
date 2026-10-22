@@ -268,6 +268,12 @@ node --test tests/tool_utils.test.cjs
 
 依赖完整版本在 `requirements.lock.txt`，功能依赖范围在 `requirements.txt`。生产构建使用锁定版本。
 
+
+
+##欢迎尝试http://47.102.197.74/
+
+
+
 ## 官方参考
 
 - [Flask 生产部署](https://flask.palletsprojects.com/en/stable/deploying/)
